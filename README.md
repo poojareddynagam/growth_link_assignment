@@ -1,5 +1,5 @@
 # growth_link_assignment
-Titanic Survival Prediction Project
+**Titanic Survival Prediction Project**
 
 This project focuses on predicting whether a passenger survived the Titanic disaster using various machine learning models. The dataset contains features like age, gender, ticket class, fare, and cabin information. The goal is to preprocess the data, build machine learning models, and evaluate their performance for this binary classification task.
 
